@@ -2,4 +2,4 @@ Theme name:    Bootstrap Plain
 Description:   Plain theme using Bootstrap v3, a somewhat loose Bootstrap-ized version of the default theme
 Author name:   Curtis Farnham
 Author site:   http://farnhamtech.com
-License:       MIT
+License:       http://licence.visualidiot.com
